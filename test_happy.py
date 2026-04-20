@@ -1,5 +1,5 @@
 import unittest
-from task1 import fizzBuzz
+from test_task1 import fizzBuzz
 
 class TestPerfection(unittest.TestCase):
     def test_happy(self):
