@@ -11,5 +11,3 @@ def fizzBuzz(num):
         # new_num = int(input("Type a new number"))
         # return(fizzBuzz(new_num))
         return None
-
-
